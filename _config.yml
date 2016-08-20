@@ -1,0 +1,14 @@
+name: ojc
+layout_spectrum: 0.9884861018239505
+typography_spectrum: 0.966660703701612
+color:
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  brandStrength: 0.046925107268200095
+  lightness: 0.945759684896011
+  saturation: 0.24900009127392275
+  rhythmicContrast: 0.22301674124781123
